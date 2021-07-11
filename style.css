@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+   
+}
+.text-half-width{
+    margin: 10% 0% 10% 20%;
+}
+ #name-hilight{
+    color:red;
+ }
+h1{
+    font-weight: 900;
+    font-size: 40px;
+}
+div img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,indianred, tomato);
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px;
+    
+}
+section{
+    height: 750px;
+}
+.first-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+   
+}
+.biography-text{
+    margin: 15% 0%;
+}
+.second-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.work{
+    width: 25%;
+    float: left;
+    margin: 1%;
+    margin-left: 2%;
+
+}
+.last-work{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5%;
+   
+}
+.work-section{
+    height: 400px;
+    
+    background-image: url(images/latest-work-bg.png);
+}
+#for-left-marin{
+    margin-left: 20%;
+}
+.text-div{
+    text-align: center;
+    margin-top: 5%;
+   
+}
+.bg-color-article{
+    background-color: orangered;
+    border-radius: 10px;
+    text-align: center;
+    width: 600px;
+    padding: 50px 0px;
+
+}
+.middle{
+  margin-left: 30%;
+  margin-top: 20px;
+  margin-top: 50px;
+}
+h6{
+    color: dimgray;
+}
+.last-bg{
+    height: 600px;
+    background-image: url(images/footer-bg.png);
+}
+.footer{
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+}
